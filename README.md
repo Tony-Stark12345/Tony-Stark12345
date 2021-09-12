@@ -43,10 +43,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tony-stark12345&show_icons=true&locale=en&layout=compact" alt="tony-stark12345" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tony-stark12345&show_icons=true&locale=en" alt="tony-stark12345" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tony-stark12345&" alt="tony-stark12345" /></p>
-
-
+** Little About Me 👇 **
 ```python
 class TonyStark():
         def __init__(self):
@@ -54,4 +51,9 @@ class TonyStark():
            self.realName = "Pritam Pramanik"
            self.DOB = "26 Oct , 2005"
            
-            ```
+```           
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tony-stark12345&" alt="tony-stark12345" /></p>
+
+
