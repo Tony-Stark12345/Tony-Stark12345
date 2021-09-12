@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tony-stark12345&" alt="tony-stark12345" /></p>
 
 
-<!--<addr>```python
-class Ff():
-        def __init__(self,x,y):
-           self.x = x
-           self.y = y
-        def pr():
-            print(self.x + self.y)
-            ```</addr> 
+```python
+class TonyStark():
+        def __init__(self):
+           self.name = "Tony Stark"
+           self.realName = "Pritam Pramanik"
+           self.DOB = "26 Oct , 2005"
+           
+            ```
