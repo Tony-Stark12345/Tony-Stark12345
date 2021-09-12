@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me : **Twitter - @tony_codezz**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tony_codezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tony_codezz" height="30" width="40" /></a>
 </p>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tony-stark12345&show_icons=true&locale=en&layout=compact" alt="tony-stark12345" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tony-stark12345&show_icons=true&locale=en" alt="tony-stark12345" /></p>
-** Little About Me 👇 **
+<h1 align="center"> Little About Me 👇 </h1>
 
 ```python
 class TonyStark():
