@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tony-stark12345&show_icons=true&locale=en&layout=compact" alt="tony-stark12345" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tony-stark12345&show_icons=true&locale=en" alt="tony-stark12345" /></p>
-<h1 align="center"> Little About Me 👇 </h1>
+<h3 align="center"> Little About Me 👇 </h3>
 
 ```python
 class TonyStark():
@@ -53,7 +53,7 @@ class TonyStark():
            self.DOB = "26 Oct , 2005"
 ```
 
-<h1>🔥 Streak Stats </h1>
+<h3>🔥 Streak Stats </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tony-stark12345&theme=algolia" alt="tony-stark12345" /></p>
 
 
