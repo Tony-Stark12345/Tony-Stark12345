@@ -53,7 +53,7 @@ class TonyStark():
            self.DOB = "26 Oct , 2005"
 ```
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tony-stark12345&" alt="tony-stark12345" /></p>
+<h1>🔥 Streak Stats </h1>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tony-stark12345&theme=algolia" alt="tony-stark12345" /></p>
 
 
