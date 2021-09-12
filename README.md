@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tony-stark12345" alt="tony-stark12345" /></a> </p>
 
-- 🔭 I’m currently working on **Jarvis**
+- 🔭 I’m currently working on : **Jarvis**
 
-- 🌱 I’m currently learning **Android Development , AI**
+- 🌱 I’m currently learning : **Android Development , AI**
 
-- 👯 I’m looking to collaborate on **Any Project**
+- 👯 I’m looking to collaborate on : **Any Project**
 
-- 💬 Ask me about **Html , Css , JavaScript , Python**
+- 💬 Ask me about : **Html , Css , JavaScript , Python**
 
-- 📫 How to reach me **Twitter - @tony_codezz**
+- 📫 How to reach me : **Twitter - @tony_codezz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
