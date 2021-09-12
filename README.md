@@ -51,6 +51,8 @@ class TonyStark():
            self.name = "Tony Stark"
            self.realName = "Pritam Pramanik"
            self.DOB = "26 Oct , 2005"
+           self.school = "Gorabazar I.C.Instituion"
+           self.intro ="I am 362 years old dangerous criminal . Police , CBI , ED , CID , FBI and their 14 generation are looking for me 🤣"
 ```
 
 <h3>🔥 Streak Stats </h3>
