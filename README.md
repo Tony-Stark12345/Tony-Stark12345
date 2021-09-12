@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Tony Stark</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">15 y/o | Frontend developer | Python programmer 🐍 | Game developer | Have a little bit knowledge of C, C++ , PHP , Electronics |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tony-stark12345&label=Profile%20views&color=0e75b6&style=flat" alt="tony-stark12345" /> </p>
 
