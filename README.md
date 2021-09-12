@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Tony Stark</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Tony Stark 👨‍💻</h1>
 <h3 align="center">15 y/o | Frontend developer | Python programmer 🐍 | Learning AI , Android Development | Have a little bit knowledge of C, C++ , PHP , Electronics |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tony-stark12345&label=Profile%20views&color=0e75b6&style=flat" alt="tony-stark12345" /> </p>
