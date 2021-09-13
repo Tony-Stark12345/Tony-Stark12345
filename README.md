@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tony-stark12345&show_icons=true&locale=en&layout=compact" alt="tony-stark12345" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tony-stark12345&show_icons=true&locale=en" alt="tony-stark12345" /></p>
-<h3 align="center"> Little About Me 👇 </h3>
+<h3 align="left">Little About Me 👇 </h3>
 
 ```python
 class TonyStark():
