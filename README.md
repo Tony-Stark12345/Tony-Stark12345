@@ -5,10 +5,11 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about html , css , JavaScript , python .
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Tony Stark 👨‍💻</h1>
@@ -43,13 +44,13 @@
 
 ```python
 class TonyStark():
-        def __init__(self):
-           self.name = "Tony Stark"
-           self.realName = "Pritam Pramanik"
-           self.DOB = "26 Oct , 2005"
-           self.school = "Gorabazar I.C.Instituion"
-           self.intro ="I am 362 years old dangerous criminal .Police , CBI , ED , CID , FBI and their 14 generation are looking for me 🤣"
-           self.codingPlatform = "Android"
+    def __init__(self):
+       self.name = "Tony Stark"
+       self.realName = "Pritam Pramanik"
+       self.DOB = "26 Oct , 2005"
+       self.school = "Gorabazar I.C.Instituion"
+       self.intro ="I am 362 years old dangerous criminal .Police , CBI , ED , CID , FBI and their 14 generation are looking for me 🤣"
+       self.codingPlatform = "Android"
            
  Tony = TonyStark()
 ```
