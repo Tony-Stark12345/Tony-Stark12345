@@ -54,6 +54,7 @@ class TonyStark():
            self.school = "Gorabazar I.C.Instituion"
            self.intro ="I am 362 years old dangerous criminal .Police , CBI , ED , CID , FBI and their 14 generation are looking for me 🤣"
            self.codingPlatform = "Android"
+  Tony = TonyStark()
 ```
 
 <h3>🔥 Streak Stats </h3>
