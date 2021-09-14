@@ -1,7 +1,7 @@
 
 
 <!--
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Jarvis
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Tony Stark 👨‍💻</h1>
 <h3 align="center">15 y/o | Frontend developer | Python programmer 🐍 | Learning AI , Android Development | Have a little bit knowledge of C, C++ , PHP , Electronics |</h3>
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="200px"/></a> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tony-stark12345&label=Profile%20views&color=0e75b6&style=flat" alt="tony-stark12345" /> </p>
 
