@@ -12,8 +12,8 @@
 
 -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Tony Stark 👨‍💻</h1>
-<h3 align="center">15 y/o | Frontend developer | Python programmer 🐍 | Learning AI , Android Development | Have a little bit knowledge of C, C++ , PHP , Electronics |</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Pritam Pramanik 👨‍💻</h1>
+<h3 align="center"> Frontend developer | Python programmer 🐍 | Learning AI , Android Development | Have a little bit knowledge of C, C++ , PHP , Electronics |</h3>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="200px"/></a> 
 
